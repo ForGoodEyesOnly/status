@@ -4,18 +4,20 @@
     "url": "https://forgoodeyesonly.eu",
     "icon": "https://icons.duckduckgo.com/ip3/forgoodeyesonly.eu.ico",
     "slug": "for-good-eyes-only-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1146,
-    "timeDay": 644,
-    "timeWeek": 1316,
-    "timeMonth": 1146,
-    "timeYear": 1146,
-    "dailyMinutesDown": {}
+    "time": 1806,
+    "timeDay": 5520,
+    "timeWeek": 2224,
+    "timeMonth": 1806,
+    "timeYear": 1806,
+    "dailyMinutesDown": {
+      "2023-05-05": 0
+    }
   },
   {
     "name": "Pixelcode Apps on Mastodon",
