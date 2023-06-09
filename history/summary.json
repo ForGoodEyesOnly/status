@@ -26,19 +26,19 @@
     "url": "https://mstdn.social/@pixelcodeapps",
     "icon": "https://icons.duckduckgo.com/ip3/mstdn.social.ico",
     "slug": "pixelcode-apps-on-mastodon",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 823,
-    "timeDay": 1243,
-    "timeWeek": 777,
-    "timeMonth": 822,
-    "timeYear": 823,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 819,
+    "timeDay": 947,
+    "timeWeek": 761,
+    "timeMonth": 816,
+    "timeYear": 819,
     "dailyMinutesDown": {
-      "2023-06-09": 0
+      "2023-06-09": 7
     }
   }
 ]
