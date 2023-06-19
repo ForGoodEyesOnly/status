@@ -1,7 +1,7 @@
 url: https://forgoodeyesonly.eu
-status: up
-code: 200
-responseTime: 675
-lastUpdated: 2023-06-18T23:08:14.405Z
+status: down
+code: 500
+responseTime: 10682
+lastUpdated: 2023-06-19T05:23:17.352Z
 startTime: Wed Apr 26 2023 14:32:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
