@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/forgoodeyesonly.eu.ico",
     "slug": "for-good-eyes-only-eu",
     "status": "up",
-    "uptime": "99.23%",
-    "uptimeDay": "91.61%",
+    "uptime": "99.24%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.80%",
     "uptimeMonth": "98.68%",
-    "uptimeYear": "99.23%",
+    "uptimeYear": "99.24%",
     "time": 2630,
-    "timeDay": 810,
+    "timeDay": 776,
     "timeWeek": 1758,
-    "timeMonth": 3257,
+    "timeMonth": 3188,
     "timeYear": 2630,
     "dailyMinutesDown": {
       "2023-07-02": 121,
@@ -33,9 +33,9 @@
     "url": "https://mstdn.social/@pixelcodeapps",
     "icon": "https://icons.duckduckgo.com/ip3/mstdn.social.ico",
     "slug": "pixelcode-apps-on-mastodon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -44,6 +44,8 @@
     "timeWeek": 917,
     "timeMonth": 849,
     "timeYear": 838,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-03": 0
+    }
   }
 ]
