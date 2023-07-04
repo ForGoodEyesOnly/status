@@ -10,11 +10,11 @@
     "uptimeWeek": "98.80%",
     "uptimeMonth": "98.68%",
     "uptimeYear": "99.24%",
-    "time": 2630,
-    "timeDay": 776,
-    "timeWeek": 1758,
-    "timeMonth": 3188,
-    "timeYear": 2630,
+    "time": 2614,
+    "timeDay": 657,
+    "timeWeek": 1745,
+    "timeMonth": 3184,
+    "timeYear": 2614,
     "dailyMinutesDown": {
       "2023-07-02": 121,
       "2023-06-22": 22,
@@ -34,18 +34,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mstdn.social.ico",
     "slug": "pixelcode-apps-on-mastodon",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 844,
-    "timeDay": 1488,
-    "timeWeek": 959,
-    "timeMonth": 861,
+    "timeDay": 1047,
+    "timeWeek": 952,
+    "timeMonth": 869,
     "timeYear": 844,
-    "dailyMinutesDown": {
-      "2023-07-03": 14
-    }
+    "dailyMinutesDown": {}
   }
 ]
