@@ -4,7 +4,7 @@
     "url": "https://forgoodeyesonly.eu",
     "icon": "https://icons.duckduckgo.com/ip3/forgoodeyesonly.eu.ico",
     "slug": "for-good-eyes-only-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
@@ -16,6 +16,7 @@
     "timeMonth": 3589,
     "timeYear": 2713,
     "dailyMinutesDown": {
+      "2023-07-15": 0,
       "2023-07-12": 20,
       "2023-07-05": 15,
       "2023-07-02": 121,
