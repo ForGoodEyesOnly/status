@@ -76,19 +76,19 @@
     "url": "https://blog.forgoodeyesonly.eu",
     "icon": "https://icons.duckduckgo.com/ip3/blog.forgoodeyesonly.eu.ico",
     "slug": "blog-for-good-eyes-only-eu",
-    "status": "down",
-    "uptime": "11.66%",
-    "uptimeDay": "11.66%",
-    "uptimeWeek": "11.66%",
-    "uptimeMonth": "11.66%",
-    "uptimeYear": "11.66%",
-    "time": 685,
-    "timeDay": 685,
-    "timeWeek": 685,
-    "timeMonth": 685,
-    "timeYear": 685,
+    "status": "up",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
+    "time": 682,
+    "timeDay": 682,
+    "timeWeek": 682,
+    "timeMonth": 682,
+    "timeYear": 682,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 988
     }
   },
   {
