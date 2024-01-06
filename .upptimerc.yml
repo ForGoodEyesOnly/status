@@ -5,6 +5,8 @@ repo: status # The name of this repository
 sites:
   - name: ForGoodEyesOnly.eu
     url: https://forgoodeyesonly.eu
+  - name: blog.ForGoodEyesOnly.eu
+    url: https://blog.forgoodeyesonly.eu
   - name: Pixelcode Apps on Mastodon
     url: https://mstdn.social/@pixelcodeapps
 
@@ -20,8 +22,10 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: For Good Eyes Only
+    - title: Home
       href: https://forgoodeyesonly.eu
+    - title: Blog
+      href: https://blog.forgoodeyesonly.eu
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
