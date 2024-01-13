@@ -3,10 +3,12 @@ owner: ForGoodEyesOnly # Your GitHub organization or username, where this reposi
 repo: status # The name of this repository
 
 sites:
-  - name: ForGoodEyesOnly.eu
+  - name: Homepage
     url: https://forgoodeyesonly.eu
-  - name: blog.ForGoodEyesOnly.eu
+  - name: Blog
     url: https://blog.forgoodeyesonly.eu
+  - name: Uptime Kuma
+    url: https://uptime.forgoodeyesonly.eu
   - name: Pixelcode Apps on Mastodon
     url: https://mstdn.social/@pixelcodeapps
 
@@ -27,10 +29,10 @@ status-website:
       href: /
     - title: Home
       href: https://forgoodeyesonly.eu
-    - title: Blog
-      href: https://blog.forgoodeyesonly.eu
     - title: Onion
       href: http://orwellkv4zylvu3hrsbk2jzilb5ic4i6hd63zcemxugwksjdmhfd7nad.onion
+    - title: Uptime
+      href: https://uptime.forgoodeyesonly.eu
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
