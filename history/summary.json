@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.forgoodeyesonly.eu.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "96.18%",
-    "uptimeDay": "96.18%",
-    "uptimeWeek": "96.18%",
-    "uptimeMonth": "96.18%",
-    "uptimeYear": "96.18%",
+    "uptime": "97.86%",
+    "uptimeDay": "97.86%",
+    "uptimeWeek": "97.86%",
+    "uptimeMonth": "97.86%",
+    "uptimeYear": "97.86%",
     "time": 1013,
     "timeDay": 1013,
     "timeWeek": 1013,
     "timeMonth": 1013,
     "timeYear": 1013,
     "dailyMinutesDown": {
-      "2024-01-13": 43
+      "2024-01-13": 28
     }
   },
   {
@@ -42,18 +42,20 @@
     "url": "https://uptime.forgoodeyesonly.eu",
     "icon": "https://icons.duckduckgo.com/ip3/uptime.forgoodeyesonly.eu.ico",
     "slug": "uptime-kuma",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 985,
-    "timeDay": 985,
-    "timeWeek": 985,
-    "timeMonth": 985,
-    "timeYear": 985,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 918,
+    "timeDay": 918,
+    "timeWeek": 918,
+    "timeMonth": 918,
+    "timeYear": 918,
+    "dailyMinutesDown": {
+      "2024-01-13": 0
+    }
   },
   {
     "name": "Pixelcode Apps on Mastodon",
