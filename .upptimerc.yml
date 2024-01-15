@@ -8,14 +8,14 @@ sites:
   - name: Blog
     url: https://blog.forgoodeyesonly.eu
   - name: Uptime Kuma
-    url: https://uptime.forgoodeyesonly.eu
+    url: https://status.forgoodeyesonly.eu
   - name: Pixelcode Apps on Mastodon
     url: https://mstdn.social/@pixelcodeapps
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.forgoodeyesonly.eu
+  cname: uptime.forgoodeyesonly.eu
   # baseUrl: /your-repo-name
   logoUrl: https://codeberg.org/ForGoodEyesOnly/for-good-eyes-only/raw/branch/master/assets/logo/logo-lighter-1000.png
   name: Upptime
@@ -25,14 +25,14 @@ status-website:
     No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime).
     If forgoodeyesonly.eu (or the blog) is down, you can also always access it under its [Onion domain](http://orwellkv4zylvu3hrsbk2jzilb5ic4i6hd63zcemxugwksjdmhfd7nad.onion) via [Tor](https://torproject.org) 
   navbar:
-    - title: Status
+    - title: Uptime
       href: /
     - title: Home
       href: https://forgoodeyesonly.eu
     - title: Onion
       href: http://orwellkv4zylvu3hrsbk2jzilb5ic4i6hd63zcemxugwksjdmhfd7nad.onion
-    - title: Uptime
-      href: https://uptime.forgoodeyesonly.eu
+    - title: Status
+      href: https://status.forgoodeyesonly.eu
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
