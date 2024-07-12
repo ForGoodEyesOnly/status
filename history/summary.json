@@ -52,7 +52,7 @@
     "timeMonth": 633,
     "timeYear": 633,
     "dailyMinutesDown": {
-      "2024-07-12": 1154,
+      "2024-07-12": 1165,
       "2024-07-11": 711
     }
   },
@@ -61,19 +61,19 @@
     "url": "https://mstdn.social/@pixelcodeapps",
     "icon": "https://icons.duckduckgo.com/ip3/mstdn.social.ico",
     "slug": "pixelcode-apps-on-mastodon",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 752,
-    "timeDay": 516,
-    "timeWeek": 752,
-    "timeMonth": 752,
-    "timeYear": 752,
+    "status": "up",
+    "uptime": "99.42%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.42%",
+    "time": 684,
+    "timeDay": 498,
+    "timeWeek": 684,
+    "timeMonth": 684,
+    "timeYear": 684,
     "dailyMinutesDown": {
-      "2024-07-12": 0
+      "2024-07-12": 11
     }
   }
 ]
