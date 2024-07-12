@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1141,
-    "timeDay": 1141,
-    "timeWeek": 1141,
-    "timeMonth": 1141,
-    "timeYear": 1141,
+    "time": 943,
+    "timeDay": 943,
+    "timeWeek": 943,
+    "timeMonth": 943,
+    "timeYear": 943,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1152,
-    "timeDay": 1152,
-    "timeWeek": 1152,
-    "timeMonth": 1152,
-    "timeYear": 1152,
+    "time": 935,
+    "timeDay": 935,
+    "timeWeek": 935,
+    "timeMonth": 935,
+    "timeYear": 935,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.forgoodeyesonly.eu.ico",
     "slug": "uptime-kuma",
     "status": "down",
-    "uptime": "0.24%",
-    "uptimeDay": "0.24%",
-    "uptimeWeek": "0.24%",
-    "uptimeMonth": "0.24%",
-    "uptimeYear": "0.24%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
+    "time": 633,
+    "timeDay": 633,
+    "timeWeek": 633,
+    "timeMonth": 633,
+    "timeYear": 633,
     "dailyMinutesDown": {
-      "2024-07-11": 209
+      "2024-07-12": 70,
+      "2024-07-11": 711
     }
   },
   {
@@ -61,18 +62,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mstdn.social.ico",
     "slug": "pixelcode-apps-on-mastodon",
     "status": "up",
-    "uptime": "94.80%",
-    "uptimeDay": "94.80%",
-    "uptimeWeek": "94.80%",
-    "uptimeMonth": "94.80%",
-    "uptimeYear": "94.80%",
-    "time": 870,
-    "timeDay": 870,
-    "timeWeek": 870,
-    "timeMonth": 870,
-    "timeYear": 870,
-    "dailyMinutesDown": {
-      "2024-07-11": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 752,
+    "timeDay": 752,
+    "timeWeek": 752,
+    "timeMonth": 752,
+    "timeYear": 752,
+    "dailyMinutesDown": {}
   }
 ]
