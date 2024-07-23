@@ -22,18 +22,20 @@
     "url": "https://blog.forgoodeyesonly.eu",
     "icon": "https://icons.duckduckgo.com/ip3/blog.forgoodeyesonly.eu.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 817,
-    "timeDay": 829,
-    "timeWeek": 796,
-    "timeMonth": 817,
-    "timeYear": 817,
-    "dailyMinutesDown": {}
+    "time": 795,
+    "timeDay": 669,
+    "timeWeek": 760,
+    "timeMonth": 795,
+    "timeYear": 795,
+    "dailyMinutesDown": {
+      "2024-07-23": 0
+    }
   },
   {
     "name": "Uptime Kuma",
@@ -52,7 +54,7 @@
     "timeMonth": 694,
     "timeYear": 694,
     "dailyMinutesDown": {
-      "2024-07-23": 72,
+      "2024-07-23": 97,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
