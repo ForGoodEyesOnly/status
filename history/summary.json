@@ -59,7 +59,7 @@
     "timeMonth": 641,
     "timeYear": 641,
     "dailyMinutesDown": {
-      "2024-08-07": 73,
+      "2024-08-07": 873,
       "2024-08-06": 1440,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
@@ -94,7 +94,7 @@
     "url": "https://mstdn.social/@pixelcodeapps",
     "icon": "https://icons.duckduckgo.com/ip3/mstdn.social.ico",
     "slug": "pixelcode-apps-on-mastodon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
@@ -106,6 +106,7 @@
     "timeMonth": 833,
     "timeYear": 833,
     "dailyMinutesDown": {
+      "2024-08-07": 0,
       "2024-08-05": 17,
       "2024-07-30": 18,
       "2024-07-29": 49,
