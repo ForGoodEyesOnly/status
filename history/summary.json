@@ -4,18 +4,19 @@
     "url": "https://forgoodeyesonly.eu",
     "icon": "https://icons.duckduckgo.com/ip3/forgoodeyesonly.eu.ico",
     "slug": "homepage",
-    "status": "up",
-    "uptime": "98.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.77%",
+    "status": "down",
+    "uptime": "98.80%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "98.77%",
     "time": 1405,
     "timeDay": 610,
     "timeWeek": 863,
-    "timeMonth": 777,
+    "timeMonth": 780,
     "timeYear": 1415,
     "dailyMinutesDown": {
+      "2025-07-20": 1,
       "2025-07-03": 36,
       "2025-06-25": 23,
       "2025-06-20": 44,
@@ -98,7 +99,7 @@
       "2024-10-31": 30,
       "2024-10-29": 22,
       "2024-10-21": 31,
-      "2024-10-20": 51
+      "2024-10-20": 34
     }
   },
   {
@@ -106,18 +107,19 @@
     "url": "https://blog.forgoodeyesonly.eu",
     "icon": "https://icons.duckduckgo.com/ip3/blog.forgoodeyesonly.eu.ico",
     "slug": "blog",
-    "status": "up",
-    "uptime": "98.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.77%",
+    "status": "down",
+    "uptime": "98.81%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "98.78%",
     "time": 1270,
     "timeDay": 624,
     "timeWeek": 848,
-    "timeMonth": 817,
+    "timeMonth": 825,
     "timeYear": 1278,
     "dailyMinutesDown": {
+      "2025-07-20": 1,
       "2025-07-03": 36,
       "2025-06-25": 23,
       "2025-06-20": 43,
@@ -196,8 +198,7 @@
       "2024-12-01": 20,
       "2024-11-30": 152,
       "2024-11-29": 17,
-      "2024-11-25": 83,
-      "2024-11-17": 30
+      "2024-11-25": 83
     }
   },
   {
@@ -217,7 +218,7 @@
     "timeMonth": 0,
     "timeYear": 624,
     "dailyMinutesDown": {
-      "2025-07-20": 121,
+      "2025-07-20": 1013,
       "2025-07-19": 1440,
       "2025-07-18": 1440,
       "2025-07-17": 1440,
