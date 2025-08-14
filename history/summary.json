@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/forgoodeyesonly.eu.ico",
     "slug": "homepage",
     "status": "up",
-    "uptime": "98.86%",
+    "uptime": "98.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "98.76%",
-    "time": 1384,
-    "timeDay": 946,
-    "timeWeek": 755,
-    "timeMonth": 929,
+    "time": 1383,
+    "timeDay": 614,
+    "timeWeek": 762,
+    "timeMonth": 919,
     "timeYear": 1406,
     "dailyMinutesDown": {
       "2025-07-30": 28,
@@ -113,10 +113,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.78%",
-    "time": 1261,
-    "timeDay": 1336,
-    "timeWeek": 918,
-    "timeMonth": 1000,
+    "time": 1260,
+    "timeDay": 651,
+    "timeWeek": 912,
+    "timeMonth": 993,
     "timeYear": 1290,
     "dailyMinutesDown": {
       "2025-07-20": 19,
@@ -218,7 +218,8 @@
     "timeMonth": 584,
     "timeYear": 624,
     "dailyMinutesDown": {
-      "2025-08-13": 107,
+      "2025-08-14": 107,
+      "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
@@ -581,8 +582,7 @@
       "2024-08-18": 1440,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
-      "2024-08-15": 1440,
-      "2024-08-14": 1440
+      "2024-08-15": 1440
     }
   },
   {
@@ -591,15 +591,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mstdn.social.ico",
     "slug": "pixelcode-apps-on-mastodon",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.84%",
+    "uptimeYear": "99.85%",
     "time": 844,
-    "timeDay": 1167,
-    "timeWeek": 945,
-    "timeMonth": 951,
+    "timeDay": 840,
+    "timeWeek": 975,
+    "timeMonth": 889,
     "timeYear": 846,
     "dailyMinutesDown": {
       "2025-07-11": 25,
@@ -622,8 +622,7 @@
       "2024-09-03": 34,
       "2024-08-31": 23,
       "2024-08-19": 17,
-      "2024-08-15": 17,
-      "2024-08-14": 23
+      "2024-08-15": 17
     }
   }
 ]
