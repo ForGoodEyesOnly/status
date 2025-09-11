@@ -4,18 +4,19 @@
     "url": "https://forgoodeyesonly.eu",
     "icon": "https://icons.duckduckgo.com/ip3/forgoodeyesonly.eu.ico",
     "slug": "homepage",
-    "status": "up",
-    "uptime": "98.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.42%",
+    "status": "down",
+    "uptime": "98.96%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "98.41%",
     "uptimeMonth": "99.07%",
-    "uptimeYear": "98.76%",
+    "uptimeYear": "98.78%",
     "time": 1446,
-    "timeDay": 2474,
-    "timeWeek": 1616,
+    "timeDay": 950,
+    "timeWeek": 1174,
     "timeMonth": 2141,
     "timeYear": 1489,
     "dailyMinutesDown": {
+      "2025-09-11": 1,
       "2025-09-09": 122,
       "2025-09-08": 38,
       "2025-08-31": 21,
@@ -96,8 +97,7 @@
       "2024-12-17": 44,
       "2024-12-14": 19,
       "2024-12-07": 49,
-      "2024-12-02": 195,
-      "2024-11-30": 152
+      "2024-12-02": 195
     }
   },
   {
@@ -105,19 +105,19 @@
     "url": "https://blog.forgoodeyesonly.eu",
     "icon": "https://icons.duckduckgo.com/ip3/blog.forgoodeyesonly.eu.ico",
     "slug": "blog",
-    "status": "up",
-    "uptime": "98.99%",
-    "uptimeDay": "98.49%",
-    "uptimeWeek": "97.85%",
+    "status": "down",
+    "uptime": "99.00%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "98.20%",
     "uptimeMonth": "98.57%",
-    "uptimeYear": "98.82%",
+    "uptimeYear": "98.83%",
     "time": 1374,
     "timeDay": 2326,
-    "timeWeek": 2538,
+    "timeWeek": 2357,
     "timeMonth": 2572,
     "timeYear": 1440,
     "dailyMinutesDown": {
-      "2025-09-11": 22,
+      "2025-09-11": 23,
       "2025-09-09": 122,
       "2025-09-08": 37,
       "2025-09-04": 36,
@@ -194,8 +194,7 @@
       "2025-01-16": 66,
       "2025-01-14": 204,
       "2025-01-11": 37,
-      "2025-01-10": 59,
-      "2025-01-08": 26
+      "2025-01-10": 59
     }
   },
   {
@@ -215,7 +214,7 @@
     "timeMonth": 0,
     "timeYear": 628,
     "dailyMinutesDown": {
-      "2025-09-11": 856,
+      "2025-09-11": 1142,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
