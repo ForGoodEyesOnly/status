@@ -10,11 +10,11 @@
     "uptimeWeek": "98.04%",
     "uptimeMonth": "98.95%",
     "uptimeYear": "98.79%",
-    "time": 1449,
-    "timeDay": 4181,
-    "timeWeek": 1737,
-    "timeMonth": 1447,
-    "timeYear": 1480,
+    "time": 1448,
+    "timeDay": 805,
+    "timeWeek": 1732,
+    "timeMonth": 1442,
+    "timeYear": 1481,
     "dailyMinutesDown": {
       "2025-10-01": 198,
       "2025-09-26": 27,
@@ -106,17 +106,16 @@
     "slug": "blog",
     "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "97.91%",
-    "uptimeMonth": "98.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.04%",
+    "uptimeMonth": "98.91%",
     "uptimeYear": "98.86%",
     "time": 1355,
-    "timeDay": 838,
-    "timeWeek": 1052,
-    "timeMonth": 1324,
-    "timeYear": 1398,
+    "timeDay": 832,
+    "timeWeek": 1051,
+    "timeMonth": 1331,
+    "timeYear": 1399,
     "dailyMinutesDown": {
-      "2025-10-05": 13,
       "2025-10-01": 197,
       "2025-09-26": 27,
       "2025-09-23": 56,
@@ -192,7 +191,8 @@
       "2025-01-29": 75,
       "2025-01-23": 92,
       "2025-01-22": 47,
-      "2025-01-21": 40
+      "2025-01-21": 40,
+      "2025-01-20": 21
     }
   },
   {
@@ -210,9 +210,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 632,
+    "timeYear": 633,
     "dailyMinutesDown": {
-      "2025-10-05": 1357,
+      "2025-10-06": 88,
+      "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
@@ -575,8 +576,7 @@
       "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
-      "2024-10-07": 1440,
-      "2024-10-06": 1440
+      "2024-10-07": 1440
     }
   },
   {
@@ -591,10 +591,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 849,
-    "timeDay": 922,
-    "timeWeek": 909,
-    "timeMonth": 916,
-    "timeYear": 872,
+    "timeDay": 1085,
+    "timeWeek": 913,
+    "timeMonth": 926,
+    "timeYear": 873,
     "dailyMinutesDown": {
       "2025-07-11": 25,
       "2025-05-17": 16,
