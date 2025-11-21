@@ -4,18 +4,19 @@
     "url": "https://forgoodeyesonly.eu",
     "icon": "https://icons.duckduckgo.com/ip3/forgoodeyesonly.eu.ico",
     "slug": "homepage",
-    "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "98.14%",
-    "uptimeYear": "98.90%",
-    "time": 1637,
+    "status": "down",
+    "uptime": "99.20%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "98.17%",
+    "uptimeYear": "98.91%",
+    "time": 1638,
     "timeDay": 1146,
     "timeWeek": 905,
-    "timeMonth": 1341,
+    "timeMonth": 1287,
     "timeYear": 1527,
     "dailyMinutesDown": {
+      "2025-11-21": 1,
       "2025-11-18": 63,
       "2025-11-17": 16,
       "2025-11-03": 44,
@@ -88,8 +89,7 @@
       "2025-03-10": 68,
       "2025-03-07": 174,
       "2025-03-03": 64,
-      "2025-02-25": 19,
-      "2025-02-24": 27
+      "2025-02-25": 19
     }
   },
   {
@@ -97,18 +97,19 @@
     "url": "https://blog.forgoodeyesonly.eu",
     "icon": "https://icons.duckduckgo.com/ip3/blog.forgoodeyesonly.eu.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.21%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "97.99%",
-    "uptimeYear": "98.92%",
-    "time": 1590,
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "98.02%",
+    "uptimeYear": "98.93%",
+    "time": 1591,
     "timeDay": 1479,
     "timeWeek": 960,
-    "timeMonth": 1881,
+    "timeMonth": 1796,
     "timeYear": 1497,
     "dailyMinutesDown": {
+      "2025-11-21": 1,
       "2025-11-18": 63,
       "2025-11-17": 16,
       "2025-11-05": 33,
@@ -183,8 +184,7 @@
       "2025-04-05": 133,
       "2025-04-02": 280,
       "2025-03-25": 23,
-      "2025-03-24": 54,
-      "2025-03-19": 17
+      "2025-03-24": 54
     }
   },
   {
@@ -204,7 +204,7 @@
     "timeMonth": 0,
     "timeYear": 645,
     "dailyMinutesDown": {
-      "2025-11-21": 102,
+      "2025-11-21": 1244,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
