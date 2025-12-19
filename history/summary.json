@@ -4,18 +4,19 @@
     "url": "https://forgoodeyesonly.eu",
     "icon": "https://icons.duckduckgo.com/ip3/forgoodeyesonly.eu.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "98.86%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "98.90%",
-    "time": 1605,
+    "uptimeYear": "98.91%",
+    "time": 1606,
     "timeDay": 1030,
     "timeWeek": 1033,
     "timeMonth": 1132,
-    "timeYear": 1536,
+    "timeYear": 1538,
     "dailyMinutesDown": {
+      "2025-12-19": 1,
       "2025-12-18": 16,
       "2025-12-09": 23,
       "2025-12-02": 25,
@@ -89,8 +90,7 @@
       "2025-03-14": 62,
       "2025-03-13": 139,
       "2025-03-10": 68,
-      "2025-03-07": 174,
-      "2025-03-03": 38
+      "2025-03-07": 174
     }
   },
   {
@@ -98,18 +98,19 @@
     "url": "https://blog.forgoodeyesonly.eu",
     "icon": "https://icons.duckduckgo.com/ip3/blog.forgoodeyesonly.eu.ico",
     "slug": "blog",
-    "status": "up",
-    "uptime": "99.26%",
-    "uptimeDay": "98.89%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "98.93%",
+    "status": "down",
+    "uptime": "99.29%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "98.98%",
     "time": 1584,
     "timeDay": 1006,
     "timeWeek": 960,
     "timeMonth": 1634,
-    "timeYear": 1535,
+    "timeYear": 1536,
     "dailyMinutesDown": {
+      "2025-12-19": 1,
       "2025-12-18": 16,
       "2025-12-09": 22,
       "2025-12-02": 25,
@@ -184,8 +185,7 @@
       "2025-04-09": 45,
       "2025-04-08": 16,
       "2025-04-07": 177,
-      "2025-04-05": 133,
-      "2025-04-02": 280
+      "2025-04-05": 133
     }
   },
   {
@@ -205,7 +205,7 @@
     "timeMonth": 0,
     "timeYear": 612,
     "dailyMinutesDown": {
-      "2025-12-19": 108,
+      "2025-12-19": 1048,
       "2025-12-18": 1440,
       "2025-12-17": 1440,
       "2025-12-16": 1440,
