@@ -4,18 +4,19 @@
     "url": "https://forgoodeyesonly.eu",
     "icon": "https://icons.duckduckgo.com/ip3/forgoodeyesonly.eu.ico",
     "slug": "homepage",
-    "status": "up",
-    "uptime": "99.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.93%",
+    "status": "down",
+    "uptime": "99.26%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "98.91%",
     "uptimeMonth": "99.42%",
-    "uptimeYear": "98.90%",
-    "time": 1583,
+    "uptimeYear": "98.91%",
+    "time": 1571,
     "timeDay": 1634,
     "timeWeek": 1343,
     "timeMonth": 1516,
     "timeYear": 1552,
     "dailyMinutesDown": {
+      "2025-12-30": 1,
       "2025-12-23": 108,
       "2025-12-19": 80,
       "2025-12-18": 16,
@@ -90,8 +91,7 @@
       "2025-03-19": 17,
       "2025-03-14": 62,
       "2025-03-13": 139,
-      "2025-03-10": 68,
-      "2025-03-07": 26
+      "2025-03-10": 68
     }
   },
   {
@@ -99,18 +99,19 @@
     "url": "https://blog.forgoodeyesonly.eu",
     "icon": "https://icons.duckduckgo.com/ip3/blog.forgoodeyesonly.eu.ico",
     "slug": "blog",
-    "status": "up",
-    "uptime": "99.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.93%",
-    "uptimeMonth": "99.43%",
-    "uptimeYear": "98.97%",
-    "time": 1604,
+    "status": "down",
+    "uptime": "99.32%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.01%",
+    "time": 1605,
     "timeDay": 903,
     "timeWeek": 1297,
     "timeMonth": 1943,
     "timeYear": 1548,
     "dailyMinutesDown": {
+      "2025-12-30": 1,
       "2025-12-23": 108,
       "2025-12-19": 80,
       "2025-12-18": 16,
@@ -185,8 +186,7 @@
       "2025-04-11": 20,
       "2025-04-10": 17,
       "2025-04-09": 45,
-      "2025-04-08": 16,
-      "2025-04-07": 177
+      "2025-04-08": 16
     }
   },
   {
@@ -206,7 +206,7 @@
     "timeMonth": 0,
     "timeYear": 610,
     "dailyMinutesDown": {
-      "2025-12-30": 110,
+      "2025-12-30": 1048,
       "2025-12-29": 1440,
       "2025-12-28": 1440,
       "2025-12-27": 1440,
