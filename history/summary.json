@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/forgoodeyesonly.eu.ico",
     "slug": "homepage",
     "status": "down",
-    "uptime": "99.34%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.33%",
-    "uptimeYear": "99.04%",
+    "uptime": "99.32%",
+    "uptimeDay": "91.48%",
+    "uptimeWeek": "98.78%",
+    "uptimeMonth": "99.06%",
+    "uptimeYear": "99.02%",
     "time": 1502,
     "timeDay": 10604,
     "timeWeek": 2902,
@@ -74,7 +74,7 @@
       "2026-05-05": 134,
       "2026-05-27": 269,
       "2026-05-26": 20,
-      "2026-06-13": 5
+      "2026-06-13": 123
     }
   },
   {
@@ -177,7 +177,7 @@
     "timeMonth": 0,
     "timeYear": 580,
     "dailyMinutesDown": {
-      "2026-06-13": 118,
+      "2026-06-13": 236,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
