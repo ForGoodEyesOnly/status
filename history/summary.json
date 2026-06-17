@@ -4,17 +4,17 @@
     "url": "https://forgoodeyesonly.eu",
     "icon": "https://icons.duckduckgo.com/ip3/forgoodeyesonly.eu.ico",
     "slug": "homepage",
-    "status": "up",
-    "uptime": "99.28%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "94.06%",
-    "uptimeMonth": "97.97%",
+    "status": "down",
+    "uptime": "99.29%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "94.00%",
+    "uptimeMonth": "97.96%",
     "uptimeYear": "98.93%",
-    "time": 1545,
-    "timeDay": 1195,
-    "timeWeek": 4579,
-    "timeMonth": 2864,
-    "timeYear": 1637,
+    "time": 1561,
+    "timeDay": 5751,
+    "timeWeek": 5356,
+    "timeMonth": 3106,
+    "timeYear": 1657,
     "dailyMinutesDown": {
       "2025-06-20": 44,
       "2025-06-25": 23,
@@ -75,7 +75,8 @@
       "2026-05-27": 269,
       "2026-05-26": 20,
       "2026-06-13": 461,
-      "2026-06-14": 138
+      "2026-06-14": 138,
+      "2026-06-17": 6
     }
   },
   {
@@ -83,17 +84,17 @@
     "url": "https://blog.forgoodeyesonly.eu",
     "icon": "https://icons.duckduckgo.com/ip3/blog.forgoodeyesonly.eu.ico",
     "slug": "blog",
-    "status": "up",
-    "uptime": "99.32%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.65%",
-    "uptimeMonth": "98.34%",
+    "status": "down",
+    "uptime": "99.33%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "95.60%",
+    "uptimeMonth": "98.33%",
     "uptimeYear": "98.92%",
-    "time": 1637,
-    "timeDay": 1316,
-    "timeWeek": 5884,
-    "timeMonth": 3486,
-    "timeYear": 1791,
+    "time": 1653,
+    "timeDay": 5814,
+    "timeWeek": 5917,
+    "timeMonth": 3719,
+    "timeYear": 1811,
     "dailyMinutesDown": {
       "2025-06-20": 43,
       "2025-06-25": 23,
@@ -160,7 +161,8 @@
       "2026-05-27": 268,
       "2026-05-26": 20,
       "2026-06-13": 300,
-      "2026-06-14": 138
+      "2026-06-14": 138,
+      "2026-06-17": 5
     }
   },
   {
@@ -180,7 +182,8 @@
     "timeMonth": 0,
     "timeYear": 584,
     "dailyMinutesDown": {
-      "2026-06-16": 260,
+      "2026-06-17": 28,
+      "2026-06-16": 1440,
       "2026-06-15": 1440,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
@@ -543,8 +546,7 @@
       "2025-06-21": 1440,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
-      "2025-06-18": 1440,
-      "2025-06-17": 1440
+      "2025-06-18": 1440
     }
   },
   {
@@ -558,10 +560,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 882,
-    "timeDay": 993,
-    "timeWeek": 834,
-    "timeMonth": 818,
+    "time": 880,
+    "timeDay": 799,
+    "timeWeek": 784,
+    "timeMonth": 816,
     "timeYear": 882,
     "dailyMinutesDown": {
       "2025-07-11": 25
