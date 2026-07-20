@@ -4,17 +4,17 @@
     "url": "https://forgoodeyesonly.eu",
     "icon": "https://icons.duckduckgo.com/ip3/forgoodeyesonly.eu.ico",
     "slug": "homepage",
-    "status": "down",
-    "uptime": "99.26%",
-    "uptimeDay": "94.00%",
-    "uptimeWeek": "98.60%",
-    "uptimeMonth": "98.45%",
-    "uptimeYear": "98.77%",
-    "time": 1577,
-    "timeDay": 5633,
-    "timeWeek": 4056,
-    "timeMonth": 2163,
-    "timeYear": 1771,
+    "status": "up",
+    "uptime": "99.25%",
+    "uptimeDay": "84.82%",
+    "uptimeWeek": "97.29%",
+    "uptimeMonth": "98.15%",
+    "uptimeYear": "98.74%",
+    "time": 1662,
+    "timeDay": 15991,
+    "timeWeek": 8161,
+    "timeMonth": 3618,
+    "timeYear": 1880,
     "dailyMinutesDown": {
       "2025-07-22": 29,
       "2025-07-30": 28,
@@ -78,7 +78,7 @@
       "2026-07-07": 88,
       "2026-07-18": 55,
       "2026-07-19": 81,
-      "2026-07-20": 6
+      "2026-07-20": 138
     }
   },
   {
@@ -86,17 +86,17 @@
     "url": "https://blog.forgoodeyesonly.eu",
     "icon": "https://icons.duckduckgo.com/ip3/blog.forgoodeyesonly.eu.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.67%",
-    "uptimeMonth": "98.48%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "98.62%",
+    "uptimeMonth": "98.47%",
     "uptimeYear": "98.77%",
-    "time": 1709,
-    "timeDay": 817,
-    "timeWeek": 2437,
-    "timeMonth": 1584,
-    "timeYear": 1878,
+    "time": 1726,
+    "timeDay": 5645,
+    "timeWeek": 3241,
+    "timeMonth": 1838,
+    "timeYear": 1895,
     "dailyMinutesDown": {
       "2025-08-15": 215,
       "2025-08-14": 4,
@@ -164,7 +164,8 @@
       "2026-06-28": 364,
       "2026-06-27": 79,
       "2026-07-07": 88,
-      "2026-07-19": 134
+      "2026-07-19": 134,
+      "2026-07-20": 5
     }
   },
   {
@@ -184,7 +185,7 @@
     "timeMonth": 0,
     "timeYear": 584,
     "dailyMinutesDown": {
-      "2026-07-20": 765,
+      "2026-07-20": 902,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
       "2026-07-17": 1440,
