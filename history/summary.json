@@ -86,17 +86,17 @@
     "url": "https://blog.forgoodeyesonly.eu",
     "icon": "https://icons.duckduckgo.com/ip3/blog.forgoodeyesonly.eu.ico",
     "slug": "blog",
-    "status": "down",
-    "uptime": "99.30%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "98.62%",
-    "uptimeMonth": "98.47%",
-    "uptimeYear": "98.77%",
-    "time": 1726,
-    "timeDay": 5645,
-    "timeWeek": 3241,
-    "timeMonth": 1838,
-    "timeYear": 1895,
+    "status": "up",
+    "uptime": "99.29%",
+    "uptimeDay": "93.94%",
+    "uptimeWeek": "97.80%",
+    "uptimeMonth": "98.28%",
+    "uptimeYear": "98.75%",
+    "time": 1725,
+    "timeDay": 4093,
+    "timeWeek": 3036,
+    "timeMonth": 1815,
+    "timeYear": 1893,
     "dailyMinutesDown": {
       "2025-08-15": 215,
       "2025-08-14": 4,
@@ -165,7 +165,7 @@
       "2026-06-27": 79,
       "2026-07-07": 88,
       "2026-07-19": 134,
-      "2026-07-20": 5
+      "2026-07-20": 87
     }
   },
   {
@@ -185,7 +185,7 @@
     "timeMonth": 0,
     "timeYear": 584,
     "dailyMinutesDown": {
-      "2026-07-20": 902,
+      "2026-07-20": 990,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
       "2026-07-17": 1440,
