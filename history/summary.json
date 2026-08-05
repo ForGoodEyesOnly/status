@@ -4,17 +4,17 @@
     "url": "https://forgoodeyesonly.eu",
     "icon": "https://icons.duckduckgo.com/ip3/forgoodeyesonly.eu.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.40%",
-    "uptimeMonth": "98.35%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "96.35%",
+    "uptimeMonth": "98.34%",
     "uptimeYear": "98.69%",
-    "time": 1668,
-    "timeDay": 1385,
-    "timeWeek": 1145,
-    "timeMonth": 3516,
-    "timeYear": 1896,
+    "time": 1667,
+    "timeDay": 846,
+    "timeWeek": 1052,
+    "timeMonth": 3437,
+    "timeYear": 1893,
     "dailyMinutesDown": {
       "2025-08-15": 124,
       "2025-08-18": 79,
@@ -77,7 +77,8 @@
       "2026-07-18": 55,
       "2026-07-19": 81,
       "2026-07-20": 138,
-      "2026-07-31": 363
+      "2026-07-31": 363,
+      "2026-08-05": 5
     }
   },
   {
@@ -85,17 +86,17 @@
     "url": "https://blog.forgoodeyesonly.eu",
     "icon": "https://icons.duckduckgo.com/ip3/blog.forgoodeyesonly.eu.ico",
     "slug": "blog",
-    "status": "up",
-    "uptime": "99.27%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.40%",
-    "uptimeMonth": "98.14%",
+    "status": "down",
+    "uptime": "99.28%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "96.35%",
+    "uptimeMonth": "98.13%",
     "uptimeYear": "98.66%",
-    "time": 1754,
-    "timeDay": 1357,
-    "timeWeek": 1288,
-    "timeMonth": 2019,
-    "timeYear": 1917,
+    "time": 1753,
+    "timeDay": 832,
+    "timeWeek": 1179,
+    "timeMonth": 1977,
+    "timeYear": 1914,
     "dailyMinutesDown": {
       "2025-08-15": 215,
       "2025-08-14": 4,
@@ -166,7 +167,8 @@
       "2026-07-19": 134,
       "2026-07-20": 87,
       "2026-07-23": 142,
-      "2026-07-31": 363
+      "2026-07-31": 363,
+      "2026-08-05": 5
     }
   },
   {
@@ -186,7 +188,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-05": 156,
+      "2026-08-05": 1034,
       "2026-08-04": 1440,
       "2026-08-03": 1440,
       "2026-08-02": 1440,
