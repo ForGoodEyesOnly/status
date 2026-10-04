@@ -4,17 +4,17 @@
     "url": "https://forgoodeyesonly.eu",
     "icon": "https://icons.duckduckgo.com/ip3/forgoodeyesonly.eu.ico",
     "slug": "homepage",
-    "status": "down",
-    "uptime": "99.22%",
-    "uptimeDay": "82.88%",
-    "uptimeWeek": "89.68%",
-    "uptimeMonth": "96.97%",
-    "uptimeYear": "98.46%",
+    "status": "up",
+    "uptime": "99.18%",
+    "uptimeDay": "50.07%",
+    "uptimeWeek": "84.99%",
+    "uptimeMonth": "95.89%",
+    "uptimeYear": "98.37%",
     "time": 1838,
-    "timeDay": 0,
-    "timeWeek": 1285,
-    "timeMonth": 1357,
-    "timeYear": 1890,
+    "timeDay": 949,
+    "timeWeek": 1243,
+    "timeMonth": 1344,
+    "timeYear": 1888,
     "dailyMinutesDown": {
       "2025-10-09": 38,
       "2025-10-10": 76,
@@ -75,7 +75,7 @@
       "2026-08-24": 55,
       "2026-09-11": 286,
       "2026-09-30": 794,
-      "2026-10-04": 247
+      "2026-10-04": 719
     }
   },
   {
@@ -83,17 +83,17 @@
     "url": "https://blog.forgoodeyesonly.eu",
     "icon": "https://icons.duckduckgo.com/ip3/blog.forgoodeyesonly.eu.ico",
     "slug": "blog",
-    "status": "down",
-    "uptime": "99.24%",
-    "uptimeDay": "82.89%",
-    "uptimeWeek": "89.68%",
-    "uptimeMonth": "97.32%",
-    "uptimeYear": "98.50%",
+    "status": "up",
+    "uptime": "99.20%",
+    "uptimeDay": "50.08%",
+    "uptimeWeek": "84.99%",
+    "uptimeMonth": "96.24%",
+    "uptimeYear": "98.42%",
     "time": 1843,
-    "timeDay": 0,
-    "timeWeek": 1385,
-    "timeMonth": 1719,
-    "timeYear": 1880,
+    "timeDay": 1089,
+    "timeWeek": 1348,
+    "timeMonth": 1700,
+    "timeYear": 1878,
     "dailyMinutesDown": {
       "2025-10-07": 30,
       "2025-10-09": 41,
@@ -156,7 +156,7 @@
       "2026-08-18": 62,
       "2026-09-11": 133,
       "2026-09-30": 794,
-      "2026-10-04": 246
+      "2026-10-04": 719
     }
   },
   {
@@ -176,7 +176,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-04": 286,
+      "2026-10-04": 763,
       "2026-10-03": 1440,
       "2026-10-02": 1440,
       "2026-10-01": 1440,
